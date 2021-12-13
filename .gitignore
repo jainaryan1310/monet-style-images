@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dataset
+gan-getting-started/
+gan-getting-started.zip
