@@ -131,3 +131,9 @@ dmypy.json
 # Dataset
 gan-getting-started/
 gan-getting-started.zip
+
+# Results
+results/
+
+# Generated Images
+generated_images/
