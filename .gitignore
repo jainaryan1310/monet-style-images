@@ -133,7 +133,11 @@ gan-getting-started/
 gan-getting-started.zip
 
 # Results
-results/
+*results/
 
 # Generated Images
-generated_images/
+*generated_images/
+*image/
+
+# zip files
+*.zip
